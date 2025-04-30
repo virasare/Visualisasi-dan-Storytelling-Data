@@ -1,4 +1,4 @@
-# Visualisasi dan Storytelling Data
+# Data Visualization and Storytelling
 
 This repo is my first project exploring **data visualization** and **storytelling** using **Google Looker Studio**. I worked with a dataset for an assignment and created a dashboard to visualize the data and tell its story.
 
