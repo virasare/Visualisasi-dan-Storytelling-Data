@@ -6,7 +6,7 @@ This repo is my first project exploring **data visualization** and **storytellin
 
 ### 📊 Data Analysis Projects
 
-- [📈 Google Looker Studio: Sales Data Analysis Dashboard](https://lookerstudio.google.com/reporting/a8eeb51e-66b0-40f9-896f-8c92244a3bf0)
+- [📈 Google Looker Studio Project](https://lookerstudio.google.com/reporting/a8eeb51e-66b0-40f9-896f-8c92244a3bf0)
 
 ---
 
